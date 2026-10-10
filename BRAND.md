@@ -13,9 +13,9 @@
 - Pitch for the saved time: coding, graphic design, video editing & content creation, digital marketing, freelancing, foreign languages, entrepreneurship.
 - Taglines: "Har class sirf 8 mahine mein" · "Wohi Cambridge syllabus" · "You save 3 years 8 months"
 
-## Contact (confirm which to use)
-- WhatsApp 0308 4274171 · Cell 0321-1941803
-- Main Kashmir Road, People's Colony, opposite Mehar Barkat Wala Bazar (also described as near Punjab Medical Complex), Gujranwala
+## Contact (confirmed by owner, 10 Oct 2026)
+- Phone on all posts: **WhatsApp 0308 4274171** (not 0321-1941803)
+- Address on all posts: **Main Kashmir Road, People's Colony, Opposite Mehar Barkat Wala Bazar, Gujranwala**
 
 ## Posting workflow
 Claude writes the image prompt → owner generates the image → Claude checks spelling, writes caption, uploads to `posts/` here → owner says "yes" → Metricool publishes to IG + FB. AI images get Instagram's AI-generated label.
