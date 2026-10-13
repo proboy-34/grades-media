@@ -13,6 +13,11 @@
 - Pitch for the saved time: coding, graphic design, video editing & content creation, digital marketing, freelancing, foreign languages, entrepreneurship.
 - Taglines: "Har class sirf 8 mahine mein" · "Wohi Cambridge syllabus" · "You save 3 years 8 months"
 
+## Campus look (from owner's tour video, 13 Oct 2026)
+- Interior is painted in the brand colours: black walls with red + white horizontal stripes, black brick feature walls, glossy red doors, white ceilings with red trim.
+- Seen so far: reception / waiting area (grey chairs, CCTV monitor), principal's / admin office (white desk, black chair), newly furnished rooms.
+- Use this real look in prompts and designs (red-black-white, brick texture) so posts match the actual campus.
+
 ## Contact (confirmed by owner, 10 Oct 2026)
 - Phone on all posts: **WhatsApp 0308 4274171** (not 0321-1941803)
 - Address on all posts: **Main Kashmir Road, People's Colony, Opposite Mehar Barkat Wala Bazar, Gujranwala**
