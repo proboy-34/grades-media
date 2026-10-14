@@ -4,6 +4,7 @@
 - **Logo:** text only. "GRADES" red + "CAMBRIDGE" black, bold condensed caps; "SCHOOL & ACADEMY" thin, widely spaced, red "&".
 - **Colours:** red #E53935 · near-black #1E1E22 · white
 - **Classes:** Play Group to O-Levels (Matric / O-Levels)
+- **Books / syllabus:** mostly Oxford and Cambridge books (owner, 14 Oct). Say "Oxford & Cambridge books" rather than claiming Cambridge registration/affiliation unless the owner confirms it.
 
 ## The core idea: the 8-month system
 - Play Group → Class 8 = 11 classes, each finished in **8 months** instead of 12.
