@@ -64,6 +64,7 @@ Student numbers are low, so every piece of content should push admissions or loc
 - Address on all posts: **Main Kashmir Road, People's Colony, Opposite Mehar Barkat Wala Bazar, Gujranwala**
 
 ## Posting workflow
+**Owner preference (14 Oct):** Claude does NOT design images itself — always give a detailed image prompt (all exact text, colours, layout, 4:5) and the owner generates the image.
 Claude writes the image prompt → owner generates the image → Claude checks spelling, writes caption, uploads to `posts/` here → owner says "yes" → Metricool publishes to IG + FB. AI images get Instagram's AI-generated label.
 
 ## Owner's notes (14 Oct 2026, collecting before deciding content)
