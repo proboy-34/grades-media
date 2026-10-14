@@ -42,7 +42,7 @@
 - Other side of ground floor: **O-Levels room**, with the **staircase** right next to it
 
 **First floor**
-- Right at the top of the stairs: **"Sidhi wala kamra"** (staircase room)
+- Right at the top of the stairs: **"Sidhi wala kamra"** (staircase room) = **Class 1–4 room**
 - Further along: several rooms, some in use now:
     - **Class 9 room**
     - inside the Class 9 room: **Pre-9th room**
