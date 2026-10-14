@@ -50,6 +50,13 @@
 
 Notes: the facade lettering shows 0321-1941803; posts still use WhatsApp 0308 4274171 (owner's choice). Current activity seen: evening academy sessions with older students.
 
+## Current focus (owner, 14 Oct 2026): ADMISSIONS + AWARENESS
+Student numbers are low, so every piece of content should push admissions or local awareness.
+- New mix: 8-Month / "save 3 years 8 months" explainer 40% · Admissions offers & CTAs 25% · Campus & teachers (trust) 20% · Study tips for parents/students (reach) 15%.
+- Every post/reel ends with a clear call to action: "WhatsApp 0308 4274171 — free visit / free assessment".
+- Avoid showing empty classrooms or near-empty halls; film tight shots, teachers, the building, the gate, the sign.
+- Target: parents aged 25–45 within ~5 km of Kashmir Road; start small Meta ads earlier (from week 2) instead of week 5.
+
 ## Contact (confirmed by owner, 10 Oct 2026)
 - Phone on all posts: **WhatsApp 0308 4274171** (not 0321-1941803)
 - Address on all posts: **Main Kashmir Road, People's Colony, Opposite Mehar Barkat Wala Bazar, Gujranwala**
