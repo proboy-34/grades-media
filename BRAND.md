@@ -32,6 +32,22 @@
 | Staircase | Narrow stairs between floors | Quick transition only |
 | AVOID for now | Plain white / pink unpainted rooms, upper-floor areas under construction, dark corners | Not on camera until finished |
 
+### Room layout (as described by owner, 14 Oct 2026)
+**Ground floor**
+- Entrance → **Waiting area** → **Office** (straight ahead)
+- Same side, further inside → **Hall**
+    - one side of hall: **Small kids' room** (Play Group / junior)
+    - other side of hall: **Class 5–7 room(s)**
+    - behind the hall: **large open play space** (not filmed yet — great for reels)
+- Other side of ground floor: **O-Levels room**, with the **staircase** right next to it
+
+**First floor**
+- Right at the top of the stairs: **"Sidhi wala kamra"** (staircase room)
+- Further along: several rooms, some in use now:
+    - **Class 9 room**
+    - inside the Class 9 room: **Pre-9th room**
+- Other first-floor rooms not yet in use / being finished
+
 Notes: the facade lettering shows 0321-1941803; posts still use WhatsApp 0308 4274171 (owner's choice). Current activity seen: evening academy sessions with older students.
 
 ## Contact (confirmed by owner, 10 Oct 2026)
