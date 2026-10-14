@@ -26,7 +26,7 @@
 | Red steel main gate | Big red gate with parking passage (bikes) | "Gate opening" transition, entry shots |
 | Reception / lounge | Black walls with red-white stripes, coffee table, white chairs, curtain | Principal talking-head, parent meeting scenes |
 | Stripe corridors | Long black corridors with red + white stripes, red doors | Walking shots, transitions, door-open reveals |
-| Main study hall | Room with red cubicle partitions, students studying, staff | Academy / focus / "study vibe" reels |
+| Main study hall (= the ground-floor Hall) | Room with red cubicle partitions, students studying, staff | Academy / focus / "study vibe" reels |
 | Blue-carpet classroom | Blue carpet, chairs with writing pads, red door | Group study, teacher tips |
 | Classroom with whiteboard | Red door, whiteboard, students at table | Teacher's 30-second trick reels |
 | Staircase | Narrow stairs between floors | Quick transition only |
@@ -35,7 +35,7 @@
 ### Room layout (as described by owner, 14 Oct 2026)
 **Ground floor**
 - Entrance → **Waiting area** → **Office** (straight ahead)
-- Same side, further inside → **Hall**
+- Same side, further inside → **Hall** (the big room with red cubicle partitions where students study)
     - one side of hall: **Small kids' room** (Play Group / junior)
     - other side of hall: **Class 5–7 room(s)**
     - behind the hall: **large open play space** (not filmed yet — great for reels)
