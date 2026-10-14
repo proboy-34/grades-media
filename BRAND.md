@@ -18,6 +18,22 @@
 - Seen so far: reception / waiting area (grey chairs, CCTV monitor), principal's / admin office (white desk, black chair), newly furnished rooms.
 - Use this real look in prompts and designs (red-black-white, brick texture) so posts match the actual campus.
 
+## Campus spaces map (full night tour, 14 Oct 2026) — use for shot lists
+| Spot | What it looks like | Good for |
+| --- | --- | --- |
+| Front facade (night) | 2-storey red/black building, big white "GRADES CAMBRIDGE SCHOOL & ACADEMY" lettering, warm lit windows; on Kashmir Road with greenery | Opening / establishing shots, "Welcome" reels — looks best at dusk |
+| Lit pole sign | Tall illuminated sign "GRADES CAMBRIDGE SCHOOL & ACADEMY — Admission Open" | Admissions reels, night hook shot |
+| Red steel main gate | Big red gate with parking passage (bikes) | "Gate opening" transition, entry shots |
+| Reception / lounge | Black walls with red-white stripes, coffee table, white chairs, curtain | Principal talking-head, parent meeting scenes |
+| Stripe corridors | Long black corridors with red + white stripes, red doors | Walking shots, transitions, door-open reveals |
+| Main study hall | Room with red cubicle partitions, students studying, staff | Academy / focus / "study vibe" reels |
+| Blue-carpet classroom | Blue carpet, chairs with writing pads, red door | Group study, teacher tips |
+| Classroom with whiteboard | Red door, whiteboard, students at table | Teacher's 30-second trick reels |
+| Staircase | Narrow stairs between floors | Quick transition only |
+| AVOID for now | Plain white / pink unpainted rooms, upper-floor areas under construction, dark corners | Not on camera until finished |
+
+Notes: the facade lettering shows 0321-1941803; posts still use WhatsApp 0308 4274171 (owner's choice). Current activity seen: evening academy sessions with older students.
+
 ## Contact (confirmed by owner, 10 Oct 2026)
 - Phone on all posts: **WhatsApp 0308 4274171** (not 0321-1941803)
 - Address on all posts: **Main Kashmir Road, People's Colony, Opposite Mehar Barkat Wala Bazar, Gujranwala**
